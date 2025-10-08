@@ -9,7 +9,7 @@ Keith Haring’s art inspires me because of his bold lines, bright colors, and s
 ![Keith Haring artwork example 2](images/haring2.png)
 
 ## Part 2 Coding Technique Exploration (p5.js)
-The p5.js sketch in video shows how to draw smooth and animated lines using `beginShape()` and `vertex()`.The movement of the lines looks very organic, almost like they are alive. This reminds me of Keith Haring’s wavy outlines and his energetic drawing style. I want to use this technique to make my lines move and flow, showing human energy and rhythm. The idea of using noise to create natural motion fits well with Haring’s playful and continuous line work.
+The p5.js video shows how to create flowing and animated lines using `beginShape()` 、 `vertex()` and `noise()`.The lines move smoothly and look almost alive, which reminds me of Keith Haring’s strong sense of rhythm and motion. His drawings always feel like they are moving. I want to use this technique to make Haring’s lines actually move on the screen. By using p5.js to add motion, I can bring more energy and life to my design, making it feel as dynamic and playful as his original artworks.
 
 **Example Video:**  
 [Animated Drawing Example (YouTube)](https://www.youtube.com/watch?v=m_1lBVxIdM4)
